@@ -1,0 +1,19 @@
+2021/07/07-18:29:24.948 af03 Reusing MANIFEST /Users/mahamamjad/Library/Application Support/Postman/Partitions/a28d02c8-8f2d-45b2-9f4d-1ee49ff80865/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/07/07-18:29:25.032 19707 Level-0 table #5: started
+2021/07/07-18:29:25.059 19707 Level-0 table #5: 494 bytes OK
+2021/07/07-18:29:25.101 19707 Delete type=0 #3
+2021/07/07-18:29:25.102 19707 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/07-18:29:25.844 19707 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/07-18:29:39.468 19707 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/07-18:38:21.419 19707 Level-0 table #7: started
+2021/07/07-18:38:21.447 19707 Level-0 table #7: 83800 bytes OK
+2021/07/07-18:38:21.491 19707 Delete type=0 #4
+2021/07/07-18:38:21.492 19707 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/07-18:38:21.492 19707 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x00\x00\x05' @ 2661 : 1
+2021/07/07-18:38:21.492 19707 Compacting 1@1 + 1@2 files
+2021/07/07-18:38:21.517 19707 Generated table #8@1: 603 keys, 29140 bytes
+2021/07/07-18:38:21.517 19707 Compacted 1@1 + 1@2 files => 29140 bytes
+2021/07/07-18:38:21.577 19707 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/07-18:38:21.598 19707 Delete type=2 #7
+2021/07/07-18:38:21.598 19707 Delete type=2 #5
+2021/07/07-18:38:21.599 19707 Manual compaction at level-1 from '\x00\x05\x00\x00\x05' @ 2661 : 1 .. (end); will stop at (end)

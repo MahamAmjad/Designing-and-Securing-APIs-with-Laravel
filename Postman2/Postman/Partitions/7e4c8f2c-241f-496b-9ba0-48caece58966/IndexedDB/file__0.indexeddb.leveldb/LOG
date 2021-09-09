@@ -1,0 +1,13 @@
+2021/09/09-12:42:21.156 6603 Reusing MANIFEST /Users/mahamamjad/Library/Application Support/Postman/Partitions/7e4c8f2c-241f-496b-9ba0-48caece58966/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/09/09-12:42:21.157 6603 Recovering log #157
+2021/09/09-12:42:21.165 6603 Reusing old log /Users/mahamamjad/Library/Application Support/Postman/Partitions/7e4c8f2c-241f-496b-9ba0-48caece58966/IndexedDB/file__0.indexeddb.leveldb/000157.log 
+2021/09/09-12:42:35.574 16b03 Level-0 table #162: started
+2021/09/09-12:42:35.658 16b03 Level-0 table #162: 421738 bytes OK
+2021/09/09-12:42:35.707 16b03 Delete type=0 #157
+2021/09/09-12:42:35.711 16b03 Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/09/09-12:43:18.855 6603 Compacting 1@1 + 1@2 files
+2021/09/09-12:43:18.897 6603 Generated table #163@1: 3401 keys, 233841 bytes
+2021/09/09-12:43:18.897 6603 Compacted 1@1 + 1@2 files => 233841 bytes
+2021/09/09-12:43:18.943 6603 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/09-12:43:18.944 6603 Delete type=2 #162
+2021/09/09-12:43:18.944 6603 Delete type=2 #159
