@@ -1,0 +1,8 @@
+{
+   "gb5f3YA/DAiy8x3dpNvSr2pIIUgr35e4mXKwTGzX29w=": {
+      "expiry": 1625664881.318744,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1625664581.318746
+   }
+}
